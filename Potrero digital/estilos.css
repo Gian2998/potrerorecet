@@ -1,0 +1,100 @@
+
+body {
+margin: 10% ;
+padding: 10%;
+  background-image: url(./imagenes/fondo8.jpg);
+    background-color: _blank;
+    background-repeat: no-repeat;
+background-attachment: fixed;
+
+background-position: center;
+background-size: 1500px 800px ;
+};
+
+
+
+
+
+h1 {
+    color:#ff6347;
+    background-color: rgba(78, 90, 104, 0.192);
+
+
+}
+  .parrafo{
+    background-color: rgba(184, 186, 189, 0.11);
+  }
+.textocentrado {
+
+    text-align: center ;
+    color: rgba(88, 214, 141 );
+}
+img {
+    width: 60% ;
+    height: 350px;
+    margin-left: 18%;
+}
+
+iframe {
+
+    margin-left: 21%;
+
+}
+
+.or {
+ width: 300px;
+
+
+}
+
+.boxuno {
+width: 50%
+float:left;
+
+}
+
+.mapabox {
+               width: 50%
+               margin-left: 1cm;
+               top: 200px;
+               float:right;
+  }
+
+.redes   {
+  display: block;
+text-decoration: none;
+background: #cc2b2b;
+color: #fff;
+width: 45px;
+height: 45px;
+line-height: 45px;
+text-align: center;
+border-radius: 50%;
+}
+
+.redes img {
+  width: 50%;
+  height: 50%;
+}
+
+.footer {
+text-align: center;
+justify-content: left;
+clear: both;
+box-sizing: border-box;
+position: relative;
+}
+
+.container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+
+  #btn-mas {
+      display: none;
+  }
+
+  div {
+      display: block;
+  }
